@@ -10,7 +10,7 @@ Claude Code plugin marketplace del [Grup de Data Science & IA de la Universitat 
 
 # Skills disponibles
 
-### playgroundSJD — Salut Mental Clínica
+## playgroundSJD — Salut Mental Clínica
 
 Skills d'IA per donar suport al raonament clínic en salut mental. Dissenyades per a formació amb casos simulats o anonimitzats.
 
