@@ -26,7 +26,7 @@ Skills d'IA per donar suport al raonament clínic en salut mental. Dissenyades p
 | `patient_family_communication` | Transformació de resums clínics en comunicació per al pacient o família |
 | `clinical_demo_orchestrator` | Demo completa de formació per a clínics hospitalaris |
 
-<img src="images/SJD.png" width="800">
+<img src="images/SJD.png" width="500">
 
 > **Avís**: Aquestes eines són exclusivament per a formació amb dades anònimes o sintètiques. No substitueixen el judici clínic professional ni s'han d'usar per a decisions autònomes de tractament.
 
