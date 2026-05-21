@@ -8,7 +8,7 @@ Claude Code plugin marketplace del [Grup de Data Science & IA de la Universitat 
 /plugin marketplace add DataScienceUB/datascienceub-skills
 ```
 
-## Skills disponibles
+# Skills disponibles
 
 ### playgroundSJD — Salut Mental Clínica
 
