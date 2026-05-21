@@ -1,0 +1,13 @@
+{
+  "name": "datascienceub-ai-skills",
+  "owner": {
+    "name": "datascienceub"
+  },
+  "plugins": [
+    {
+      "name": "clinical-case-review",
+      "source": "./plugins/clinical-case-review",
+      "description": "Review clinical cases."
+    }
+  ]
+}
