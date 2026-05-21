@@ -1,0 +1,31 @@
+{
+  "name": "datascienceub-skills",
+  "id": "datascienceub-skills",
+  "owner": {
+    "name": "DataScienceUB"
+  },
+  "metadata": {
+    "description": "Clinical AI skills for mental health support, developed by the Data Science & AI Group at the University of Barcelona",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "playgroundSJD",
+      "source": "./playgroundSJD",
+      "description": "AI-powered clinical reasoning skills for mental health workflows: structured case review, blindspot auditing, safety auditing, patient/family communication and demo orchestration",
+      "version": "0.2.0",
+      "author": {
+        "name": "DataScienceUB"
+      },
+      "keywords": [
+        "clinical",
+        "mental-health",
+        "ai",
+        "healthcare",
+        "barcelona",
+        "salut-mental"
+      ],
+      "category": "clinical"
+    }
+  ]
+}
