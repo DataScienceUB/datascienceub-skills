@@ -5,7 +5,7 @@ Claude Code plugin marketplace del [Grup de Data Science & IA de la Universitat 
 ## Instal·lació del marketplace
 
 ```bash
-/plugin marketplace add DataScienceUB/datascienceub-skills
+/plugin marketplace add https://github.com/DataScienceUB/datascienceub-skills.git
 ```
 
 # Skills disponibles
