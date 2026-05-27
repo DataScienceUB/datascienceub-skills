@@ -1,6 +1,7 @@
 {
   "name": "datascienceub-skills",
   "id": "datascienceub-skills",
+  "repository": "https://github.com/DataScienceUB/datascienceub-skills.git",
   "owner": {
     "name": "DataScienceUB"
   },
